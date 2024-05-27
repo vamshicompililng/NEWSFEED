@@ -45,4 +45,6 @@ updated with the latest news. Whether accessed on a desktop or a mobile device, 
 
 
 
+
+
 <img width="1280" alt="Screenshot 2024-05-27 at 12 33 18 PM" src="https://github.com/vamshicompililng/NEWSFEED/assets/111577474/51ffcd27-8e5d-4ef1-a744-418e9ca6b1ee">
